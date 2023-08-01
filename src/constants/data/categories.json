@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "LONDRES",
+        "backgroundColor": "#6D6AA0",
+        "backgroundImage": "https://www.universal-assistance.com/uablog/wp-content/uploads/2022/12/big-ben.png"
+    },
+    {
+        "id": 2,
+        "name": "ROMA",
+        "backgroundColor": "#3EC2CC",
+        "backgroundImage": "https://media-cdn.tripadvisor.com/media/photo-s/14/60/3b/32/fontana-di-trevi.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PARIS",
+        "backgroundColor": "#0DAB6C",
+        "backgroundImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2013/04/Paris.jpg?fit=1024%2C685&quality=50&strip=all&ssl=1"
+    },
+    {
+        "id": 4,
+        "name": "MADRID",
+        "backgroundColor": "#EC5B67",
+        "backgroundImage": "https://www.spain.info/.content/imagenes/cabeceras-grandes/madrid/calle-gran-via-madrid-s333961043.jpg"
+    }
+]
