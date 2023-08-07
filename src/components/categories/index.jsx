@@ -1,13 +1,11 @@
 import { Text, TouchableHighlight, ImageBackground } from 'react-native';
 import { styles } from './style';
 
-const CategoriesItem = ({ id, name, backgroundColor, backgroundImage, onPressSelected   }) => {
+const CategoriesItem = ({ id, name, backgroundColor, backgroundImage, onPressSelected, navigation  }) => {
 
-onPressSelected = () => {
-  console.warn(id)
+ 
 
-  
-}
+
 
 
   return (

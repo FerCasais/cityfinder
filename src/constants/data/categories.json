@@ -3,24 +3,33 @@
         "id": 1,
         "name": "LONDRES",
         "backgroundColor": "#6D6AA0",
-        "backgroundImage": "https://www.universal-assistance.com/uablog/wp-content/uploads/2022/12/big-ben.png"
+        "backgroundImage": "https://www.universal-assistance.com/uablog/wp-content/uploads/2022/12/big-ben.png",
+        "latitude": 51.509865,
+        "longitude":-0.118092
     },
     {
         "id": 2,
         "name": "ROMA",
         "backgroundColor": "#3EC2CC",
-        "backgroundImage": "https://media-cdn.tripadvisor.com/media/photo-s/14/60/3b/32/fontana-di-trevi.jpg"
-    },
+        "backgroundImage": "https://media-cdn.tripadvisor.com/media/photo-s/14/60/3b/32/fontana-di-trevi.jpg",
+        "latitude": 41.87635744,
+        "longitude": 12.52365402
+      },
+    
     {
         "id": 3,
         "name": "PARIS",
         "backgroundColor": "#0DAB6C",
-        "backgroundImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2013/04/Paris.jpg?fit=1024%2C685&quality=50&strip=all&ssl=1"
+        "backgroundImage": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2013/04/Paris.jpg?fit=1024%2C685&quality=50&strip=all&ssl=1",
+        "latitude":  48.864716,
+        "longitude":  2.349014
     },
     {
         "id": 4,
         "name": "MADRID",
         "backgroundColor": "#EC5B67",
-        "backgroundImage": "https://www.spain.info/.content/imagenes/cabeceras-grandes/madrid/calle-gran-via-madrid-s333961043.jpg"
+        "backgroundImage": "https://www.spain.info/.content/imagenes/cabeceras-grandes/madrid/calle-gran-via-madrid-s333961043.jpg",
+        "latitude":  40.416729,
+        "longitude": -3.703339
     }
 ]

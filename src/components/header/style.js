@@ -28,6 +28,7 @@ import { COLORS } from "../../themes/colors";
         color: COLORS.text,
         padding: 10,
         fontWeight: 'bold',
+        fontFamily: "dancing-script"
      
         
     }
